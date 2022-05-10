@@ -1,5 +1,5 @@
 
-pip freeze > requirements.txt
+
 pip install streamlit
 pip install pipreqs
 pip install streamlit
